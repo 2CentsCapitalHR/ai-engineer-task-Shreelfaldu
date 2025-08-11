@@ -35,28 +35,32 @@ The ADGM Corporate Agent is an intelligent document processing system that helps
 - Compliance & Risk Policies
 - Licensing Applications
 
+### 🎥 Demo Video
+[Watch the Demo Video](https://drive.google.com/file/d/1QYioV__0BFXRb7ctAB0ASV78KUpPiuLh/view?usp=sharing)
 ### 📸 Screenshots
 
-#### Main Interface - Process Selection
+### Main Interface - Process Selection
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5456a7a-6e54-45a7-b364-f99d39327bab" />
 
-
-#### Document Upload Interface
+---
+### Document Upload Interface
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0124b198-028a-41be-9a80-fbe2ab7a1bfa" />
 
-
-#### Analysis Results
+---
+### Analysis Results
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afa2b768-48b9-44b3-a3f8-3993271e7812" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a41cc58-2aeb-45b6-9c53-f05aed19542a" />
 
-
-#### Red Flag Detection
+---
+### Red Flag Detection
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cbaea35-a8ff-4c0d-bab4-b6b3a8e46440" />
 
-#### Download Section
+---
+### Download Section
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f24ab00c-5ab2-4962-a8d6-350843913862" />
 
+---
 
 ## 🚀 Installation & Setup
 
